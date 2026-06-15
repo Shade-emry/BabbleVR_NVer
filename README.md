@@ -41,10 +41,10 @@ Do not treat the first batch as production-ready. Build and test the first units
 
 Use the mechanical files from the repository:
 
-* `CaseTop_01.STEP`
-* `CaseBottom_01.STEP`
-* `ButtonCover_01.STEP`
-* `Quest3_MountScobe_01.STEP`
+* `CaseTop_01.STL`
+* `CaseBottom_01.STL`
+* `ButtonCover_01.STL`
+* `Quest3_MountScobe_01.STL`
 * optional hinge/mount parts from the mechanical design folder
 
 Print the case in a material that handles repeated flexing and heat better than brittle PLA. PETG, ASA, or nylon are better choices.
