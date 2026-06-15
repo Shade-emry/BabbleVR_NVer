@@ -1,0 +1,70 @@
+Designator,Mid X,Mid Y,Layer,Rotation,Comment,Footprint
+VD6,7.7250,8.6000,Bottom,90,"TVS, 5.5V, 2A, , , SC-70-3, -55...+150°C",SC-70
+R25,6.7000,6.3000,Bottom,0,"Resistor film, 470R, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R24,8.7000,6.3000,Bottom,180,"Resistor film, 470R, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+L3,10.7000,6.3000,Bottom,180,"Fixed inductor, BEAD, ±25%, 0402, 900mA, -55...+125°C",IND:_0402
+X4,7.7000,3.2750,Bottom,180,"Connector, 4pin, 1.25mm, 50VDC, 1A",CON:_SM04B-GHS
+VT2,31.2675,23.6125,Bottom,90,"MOSFET Dula-channel transistor, 20V, 700mA, N-70pC, P-850pC, 1W, N-480mOhm, P-970mOhm, N-750pF, P-1000pF, SOT563, -55...+150°C",SOT563-6
+R22,15.0000,8.1000,Bottom,90,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R21,33.1000,24.0000,Bottom,90,"Resistor film, 510k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R20,29.5000,24.0000,Bottom,90,"Resistor film, 510k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+C19,13.2500,2.3000,Top,180,"Ceramic capacitor, 4.7uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+TP1,30.5000,14.2000,Bottom,180,"Test point, Keystone, 5001",CON:_TEST_POINT_1_MM
+X2,28.3000,4.3625,Bottom,0,"USB Type C, 5A",CON:_TYPE-C-SOFNG_MC-311S
+D3,28.3750,10.0000,Bottom,90,"ESD protection, , 8kV, , -40...+125°C, SOT23-6L",SOT23-6
+X1,18.0000,6.4250,Top,0,"Connector, 24pin, 0.5mm, FFC/FPC, 0.5A",CON:_FFC/FPC-24-0.5(Hirose)
+VT1,31.2000,28.3750,Bottom,0,"MOSFET N-channel transistor, 60V, 380mA, , 300mW, 2.3Ohm, 34pF, SC-70, -55...+150°C",SC-70
+VD5,5.0000,29.0000,Top,270,"LED, 850...858nm, 35mA, 1.5V, 1206, -55...+150°C",LED:_1206R
+VD4,5.0000,18.0000,Top,270,"LED, 850...858nm, 35mA, 1.5V, 1206, -55...+150°C",LED:_1206R
+VD3,31.0000,29.0000,Top,270,"LED, 850...858nm, 35mA, 1.5V, 1206, -55...+150°C",LED:_1206R
+VD2,31.0000,18.0000,Top,270,"LED, 850...858nm, 35mA, 1.5V, 1206, -55...+150°C",LED:_1206R
+VD1,6.7000,17.9000,Top,90,"LED, Green, *, *, *, -55...+150°C",LED:_0402R
+R8,31.3000,21.7000,Bottom,180,"Resistor film, 9.1R, ±5%, 0603, 0.1W, -55...+125°C",RES:_0603
+R6,31.2000,25.5000,Bottom,180,"Resistor film, 22R, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R3,3.3000,18.0000,Bottom,270,"Resistor film, 470R, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+D6,17.9250,5.0000,Bottom,270,"Linear voltage regulator, 2...5.5V, 0.26V, 1.2V, 0.3A, -40...+85°C, SOT23-5",SOT23-5
+D5,31.6875,12.7875,Bottom,0,"Charger li-ion battery, input 4.35...26V, , 1A, -40...+125°C, 8-DSBGA",8-DSBGA
+D4,13.9250,5.0000,Bottom,270,"Linear voltage regulator, 2.9...6V, 0.5V, 1.5V, 0.25A, -40...+85°C, SOT23-5",SOT23-5
+C17,17.4000,2.3000,Bottom,0,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C14,17.5000,7.6000,Bottom,0,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C13,14.0000,2.3000,Bottom,0,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C12,13.5000,7.6000,Bottom,0,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C6,18.4000,3.3000,Top,0,"Ceramic capacitor, 4.7uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C5,13.2500,3.3000,Top,180,"Ceramic capacitor, 4.7uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C4,17.4000,2.3000,Top,0,"Ceramic capacitor, 4.7uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+X3,33.6000,16.1000,Bottom,180,"Connector, 2pin, 2mm, ,",CON:_BAT_(2.00)
+SB1,4.0000,12.0000,Bottom,90,"Tactile button, TS-1186F",BUT:_TS-1186F-B-A
+SB2,4.0000,25.0000,Bottom,90,"Tactile button, TS-1186F",BUT:_TS-1186F-B-A
+R10,23.2000,7.7000,Bottom,180,"Resistor film, 330R, ±5%, 0603, 0.1W, -55...+125°C",RES:_0603
+R13,26.3000,19.8000,Bottom,90,"Resistor film, 510k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R16,26.8000,13.8500,Bottom,0,"Resistor film, 22R, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R2,4.0000,8.6000,Bottom,180,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R1,26.8000,26.5000,Bottom,0,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R19,27.8000,23.5000,Bottom,180,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R11,26.2000,9.5000,Bottom,270,"Resistor film, 5.1k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R15,26.8000,12.6000,Bottom,0,"Resistor film, 22R, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R12,30.4000,9.5000,Bottom,270,"Resistor film, 5.1k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R14,26.3000,17.8000,Bottom,90,"Resistor film, 91k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R18,27.8000,24.5000,Bottom,0,"Resistor film, 5.1k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R17,20.0000,8.1000,Bottom,90,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R9,4.0000,15.8000,Bottom,180,"Resistor film, 9.1R, ±5%, 0603, 0.1W, -55...+125°C",RES:_0603
+R7,31.2000,26.5000,Bottom,0,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R5,11.5500,9.1000,Bottom,90,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+R4,10.2750,9.1000,Bottom,90,"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C",RES:_0402
+L1,31.4000,9.5000,Bottom,270,"Fixed inductor, BEAD, ±25%, 0402, 900mA, -55...+125°C",IND:_0402
+L2,30.4500,17.8000,Bottom,270,"Fixed inductor, 1µH, ±20%, 0805, 2.2A, -55...+125°C",IND:_0805
+D1,16.0000,20.2000,Bottom,180,"Wi-Fi module, WiFi 802.11 b/g/n (802.11n up to 150 Mbps) / Bluetooth v4.2 BR/EDR and BLE specification, 32 bit, SD card, UART, SPI, SDIO, I2C, LED PWM, Motor PWM, I2S, IR, pulse counter, GPIO, capacitive touch sensor, ADC, DAC, -40...+85°C, 18x25.5x3.1",MOD:_ESP32-S3-WROOM-1
+D2,28.3000,17.8000,Bottom,180,"DC/DC buck-boost converter, 1.6...5.5V, 2.4MHz, 1.2...5.3V, 1.5A, -40...+125°C, SOT-583",SOT583-8
+C11,28.3000,21.7000,Bottom,0,"Ceramic capacitor, 22uF, X5R, ±10%, 6.3V, 0603, -55...+125°C",CAP:_0603
+C7,28.3000,15.5000,Bottom,0,"Ceramic capacitor, 22uF, X5R, ±10%, 6.3V, 0603, -55...+125°C",CAP:_0603
+C2,26.8000,25.5000,Bottom,180,"Ceramic capacitor, 1uF, X7R, ±10%, 6.3V, 0402, -55...+125°C",CAP:_0402
+C1,27.6000,28.4500,Bottom,270,"Ceramic capacitor, 22uF, X5R, ±10%, 6.3V, 0603, -55...+125°C",CAP:_0603
+C3,26.3000,28.4500,Bottom,270,"Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C9,32.4000,9.5000,Bottom,270,"Ceramic capacitor, 0.1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C15,33.9000,12.0000,Bottom,0,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C8,23.2000,9.3000,Bottom,0,"Ceramic capacitor, 0.1uF, X7R, ±10%, 16V, 0603, -55...+125°C",CAP:_0603
+C16,33.9000,11.0000,Bottom,0,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C18,26.3000,24.0000,Bottom,270,"Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C10,28.3000,20.1000,Bottom,0,"Ceramic capacitor, 22uF, X5R, ±10%, 6.3V, 0603, -55...+125°C",CAP:_0603
+C33,33.4000,13.5000,Bottom,90,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402
+C27,31.9000,11.0000,Bottom,180,"Ceramic capacitor, 1uF, X7R, ±10%, 16V, 0402, -55...+125°C",CAP:_0402

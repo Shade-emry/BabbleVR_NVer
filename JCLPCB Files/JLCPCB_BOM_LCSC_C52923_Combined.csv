@@ -1,0 +1,33 @@
+Comment,Designator,Footprint,Quantity,PartNumber,LCSC Part #
+"Ceramic capacitor, 22uF, X5R, ±10%, 6.3V, 0603, -55...+125°C","C1, C7, C10, C11",CAP: 0603,4,,C86295
+"Ceramic capacitor, 1uF, X5R, ±10%, 25V, 0402","C2, C12, C13, C14, C15, C16, C17, C27, C33",CAP: 0402,9,CL05A105KA5NQNC,C52923
+"Ceramic capacitor, 100nF, X7R, ±10%, 16V, 0402, -55...+125°C","C3, C9, C18",CAP: 0402,3,,C1525
+"Ceramic capacitor, 4.7uF, X7R, ±10%, 16V, 0402, -55...+125°C","C4, C5, C6, C19",CAP: 0402,4,,C412302
+"Ceramic capacitor, 0.1uF, X7R, ±10%, 16V, 0603, -55...+125°C",C8,CAP: 0603,1,,C66501
+"Wi-Fi module, WiFi 802.11 b/g/n (802.11n up to 150 Mbps) / Bluetooth v4.2 BR/EDR and BLE specification, 32 bit, SD card, UART, SPI, SDIO, I2C, LED PWM, Motor PWM, I2S, IR, pulse counter, GPIO, capacitive touch sensor, ADC, DAC, -40...+85°C, 18x25.5x3.1",D1,MOD: ESP32-S3-WROOM-1,1,ESP32-S3-WROOM-1-N8R8,C2913201
+"DC/DC buck-boost converter, 1.6...5.5V, 2.4MHz, 1.2...5.3V, 1.5A, -40...+125°C, SOT-583",D2,SOT583-8,1,TPS631000DRLR,C5219190
+"ESD protection, , 8kV, , -40...+125°C, SOT23-6L",D3,SOT23-6,1,USBLC6-2,C7519
+"Linear voltage regulator, 2.9...6V, 0.5V, 1.5V, 0.25A, -40...+85°C, SOT23-5",D4,SOT23-5,1,AP2139AK-2.8TRG1,C460337
+"Charger li-ion battery, input 4.35...26V, , 1A, -40...+125°C, 8-DSBGA",D5,8-DSBGA,1,BQ25180YBGR,C3682423
+"Linear voltage regulator, 1.2V fixed, 300mA, SOT-23-5, pin-compatible D6 replacement for TLV70212DBVR",D6,SOT23-5,1,TLV77312PDBVR,C30806341
+"Fixed inductor, BEAD, ±25%, 0402, 900mA, -55...+125°C","L1, L3",IND: 0402,2,BLM15PX601SN1D,C160977
+"Fixed inductor, 1µH, ±20%, 0805, 2.2A, -55...+125°C",L2,IND: 0805,1,MAKK2016T1R0M,C92921
+"Resistor film, 10k, ±5%, 0402, 0.063W, -55...+125°C","R1, R2, R4, R5, R7, R17, R19, R22",RES: 0402,8,,C25744
+"Resistor film, 470R, ±5%, 0402, 0.063W, -55...+125°C","R3, R24, R25",RES: 0402,3,RC0402JR-07100RL,C25117
+"Resistor film, 22R, ±5%, 0402, 0.063W, -55...+125°C","R6, R15, R16",RES: 0402,3,,C25092
+"Resistor film, 9.1R, ±5%, 0603, 0.1W, -55...+125°C","R8, R9",RES: 0603,2,,C228246
+"Resistor film, 330R, ±5%, 0603, 0.1W, -55...+125°C",R10,RES: 0603,1,,C23138
+"Resistor film, 5.1k, ±5%, 0402, 0.063W, -55...+125°C","R11, R12, R18",RES: 0402,3,,C25905
+"Resistor film, 510k, ±5%, 0402, 0.063W, -55...+125°C","R13, R20, R21",RES: 0402,3,,C11616
+"Resistor film, 91k, ±5%, 0402, 0.063W, -55...+70°C",R14,RES: 0402,1,CL0402JN91KP,C48391769
+"Tactile button, TS-1186F","SB1, SB2",BUT: TS-1186F-B-A,2,TS-1186F-C-A,C908471
+"Test point, Keystone, 5001",TP1,CON: TEST POINT 1 MM,1,5001,
+"LED, Green, *, *, *, -55...+150°C",VD1,LED: 0402R,1,,C130723
+"LED, 850...858nm, 35mA, 1.5V, 1206, -55...+150°C","VD2, VD3, VD4, VD5",LED: 1206R,4,XL-3216HIRC-850,C965891
+"TVS/ESD array, 2-channel, 6VWM, 16VC, low-cap, SC-70-3",VD6,SC-70,1,AQ3102-02JTG,C3705570
+"MOSFET N-channel transistor, 60V, 380mA, , 300mW, 2.3Ohm, 34pF, SC-70, -55...+150°C",VT1,SC-70,1,L2N7002KWT1G,C2912011
+"MOSFET Dula-channel transistor, 20V, 700mA, N-70pC, P-850pC, 1W, N-480mOhm, P-970mOhm, N-750pF, P-1000pF, SOT563, -55...+150°C",VT2,SOT563-6,1,DMC2400UV,C177025
+"Connector, 24pin, 0.5mm, FFC/FPC, 0.5A",X1,CON: FFC/FPC-24-0.5(Hirose),1,TF31-24S-0.5SH(800),C3169854
+"USB Type C, 5A",X2,CON: TYPE-C-SOFNG MC-311S,1,TYPEC-304YSSW-ACP16,C2840392
+"Connector, 2pin, 2mm, , ",X3,CON: BAT (2.00),1,,C295747
+"Connector, 4pin, 1.25mm, 50VDC, 1A",X4,CON: SM04B-GHS,1,SM04B-GHS,C189895
