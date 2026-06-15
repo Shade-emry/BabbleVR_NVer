@@ -33,7 +33,7 @@ This guide assumes the PCB has already been ordered through JLCPCB using:
 * ENIG finish recommended
 * JLCPCB-assembled SMT parts
 
-Do not treat the first batch as production-ready. Build and test the first units as prototypes.
+Do not treat the first batch as production-ready. Build and test the first units as prototypes. Feel free to skip steps 2- 3 if it works.
 
 ## 2. Parts and tools needed after JLCPCB assembly
 
